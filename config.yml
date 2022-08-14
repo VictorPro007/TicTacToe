@@ -1,0 +1,9 @@
+color:
+  titleColor: "GREEN"
+  textColor: "white"
+  playerColor: "blue"
+  computerColor: "red"
+
+token:
+  playerToken: "o"
+  computerToken: "x"
